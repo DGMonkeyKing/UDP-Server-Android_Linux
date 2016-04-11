@@ -1,3 +1,4 @@
+obj-m += modlist.o
 
 ANDROIDSRC=/home/kernel/kitkat-src
 KERNEL_TREE=$(ANDROIDSRC)/kernel
