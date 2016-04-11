@@ -1,3 +1,11 @@
+#Linux modules
+*.cmd
+*.ko
+*.mod.*
+*.symvers
+*.order
+*.o
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
